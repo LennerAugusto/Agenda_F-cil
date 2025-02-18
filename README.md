@@ -1,3 +1,10 @@
+# Projeto final Desenvolvimento de Sistemas Móveis
+
+Projeto desenvolvido durante a matéria de desenvolvimento de sistemas móveis, com o intuito de simplificar a forma de agendar a horários em barbearias ou salões de beleza.
+O Projeto é simples, porém funcional, permite o cadastro de usuários comuns que realizarão o agendamento de horários e serviços e o cadastro de barbearias com suas informações e serviços oferecidos.
+
+ 
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
